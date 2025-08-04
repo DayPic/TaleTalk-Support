@@ -16,7 +16,7 @@ We're a team of creators and educators passionate about building high-quality di
 ## 📬 Support
 
 For questions or feedback, please contact us at:  
-📮 [your_email@example.com]  
+📮 stellacus.studio@gmail.com
 
 Or open an issue on this repository.
 
